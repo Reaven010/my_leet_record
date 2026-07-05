@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Reaven010/my_leet_record/tree/main/0001-two-sum/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/Reaven010/my_leet_record/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Reaven010/my_leet_record/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## String
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Reaven010/my_leet_record/tree/main/0001-two-sum/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/Reaven010/my_leet_record/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
