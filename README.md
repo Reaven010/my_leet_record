@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Reaven010/my_leet_record/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/Reaven010/my_leet_record/tree/master/0217-contains-duplicate) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Reaven010/my_leet_record/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Reaven010/my_leet_record/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## String
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Reaven010/my_leet_record/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/Reaven010/my_leet_record/tree/master/0217-contains-duplicate) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Reaven010/my_leet_record/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Reaven010/my_leet_record/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Reaven010/my_leet_record/tree/master/0217-contains-duplicate) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Reaven010/my_leet_record/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
