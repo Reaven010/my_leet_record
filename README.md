@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Reaven010/my_leet_record/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/Reaven010/my_leet_record/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Reaven010/my_leet_record/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Counting
@@ -51,6 +52,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Reaven010/my_leet_record/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Reaven010/my_leet_record/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Reaven010/my_leet_record/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Reaven010/my_leet_record/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
 
 ## Daily Activity Log
