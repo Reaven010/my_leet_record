@@ -64,6 +64,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Reaven010/my_leet_record/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Reaven010/my_leet_record/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Reaven010/my_leet_record/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
 
 ## Daily Activity Log
