@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/Reaven010/my_leet_record/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Reaven010/my_leet_record/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/Reaven010/my_leet_record/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Reaven010/my_leet_record/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Reaven010/my_leet_record/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/Reaven010/my_leet_record/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Reaven010/my_leet_record/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
