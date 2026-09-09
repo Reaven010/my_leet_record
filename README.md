@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3870-count-commas-in-range](https://github.com/Reaven010/my_leet_record/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Reaven010/my_leet_record/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
 
 ## Daily Activity Log
