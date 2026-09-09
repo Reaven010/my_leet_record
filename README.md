@@ -80,6 +80,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Reaven010/my_leet_record/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/Reaven010/my_leet_record/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
 
 ## Daily Activity Log
