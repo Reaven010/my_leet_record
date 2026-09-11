@@ -85,6 +85,30 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3870-count-commas-in-range](https://github.com/Reaven010/my_leet_record/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Reaven010/my_leet_record/tree/master/3871-count-commas-in-range-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Reaven010/my_leet_record/tree/master/0785-is-graph-bipartite) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Reaven010/my_leet_record/tree/master/0785-is-graph-bipartite) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Reaven010/my_leet_record/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Reaven010/my_leet_record/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Reaven010/my_leet_record/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Reaven010/my_leet_record/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
 
 ## Daily Activity Log
