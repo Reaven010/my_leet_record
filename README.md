@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Reaven010/my_leet_record/tree/master/0242-valid-anagram) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Reaven010/my_leet_record/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Reaven010/my_leet_record/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Reaven010/my_leet_record/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Reaven010/my_leet_record/tree/master/0217-contains-duplicate) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Reaven010/my_leet_record/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Reaven010/my_leet_record/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Reaven010/my_leet_record/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/Reaven010/my_leet_record/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Reaven010/my_leet_record/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Reaven010/my_leet_record/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Reaven010/my_leet_record/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +112,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Reaven010/my_leet_record/tree/master/0785-is-graph-bipartite) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Reaven010/my_leet_record/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
 
 ## Daily Activity Log
