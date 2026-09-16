@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Reaven010/my_leet_record/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Reaven010/my_leet_record/tree/master/0217-contains-duplicate) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Reaven010/my_leet_record/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [0994-rotting-oranges](https://github.com/Reaven010/my_leet_record/tree/master/0994-rotting-oranges) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Reaven010/my_leet_record/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Reaven010/my_leet_record/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/Reaven010/my_leet_record/tree/master/3903-smallest-stable-index-i) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Reaven010/my_leet_record/tree/master/0785-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/Reaven010/my_leet_record/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -116,6 +118,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Reaven010/my_leet_record/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Reaven010/my_leet_record/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
 
 ## Daily Activity Log
