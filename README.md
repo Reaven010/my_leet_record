@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Reaven010/my_leet_record/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Reaven010/my_leet_record/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Reaven010/my_leet_record/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Reaven010/my_leet_record/tree/master/0242-valid-anagram) |
 | [0940-distinct-subsequences-ii](https://github.com/Reaven010/my_leet_record/tree/master/0940-distinct-subsequences-ii) |
@@ -125,11 +126,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Reaven010/my_leet_record/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Reaven010/my_leet_record/tree/master/0155-min-stack) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Reaven010/my_leet_record/tree/master/0155-min-stack) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Reaven010/my_leet_record/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
 
 ## Daily Activity Log
