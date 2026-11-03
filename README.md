@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Reaven010/my_leet_record/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Reaven010/my_leet_record/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Reaven010/my_leet_record/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Reaven010/my_leet_record/tree/master/0238-product-of-array-except-self) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Reaven010/my_leet_record/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Reaven010/my_leet_record/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Reaven010/my_leet_record/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
